@@ -2,8 +2,8 @@
 
 - 👀 Estou interessado em desenvolvimento mobile com Dart e Flutter
 - 👨‍🎓 Formado em Técnico em Informática - Colégio Politécnico da UFSM
-- 📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas - UNISINOS
-- 🌱 Agora estou estudando Flutter na Udemy com curso da COD3R e fazendo em paralelo cursos na Staart do Grupo Primo
+- 📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas - Faculdade Descomplica
+- 🌱 Agora estou estudando Flutter no bootcamp da DIO
 - 🤩 Gostaria de colaborar com o crescimento e desenvolvimento dessa área e do Flutter
 
 ##
