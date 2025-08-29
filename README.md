@@ -1,10 +1,8 @@
 # 👋 Olá eu sou o Douglas Ennes
 
-- 👀 Estou interessado em desenvolvimento mobile com Dart e Flutter
 - 👨‍🎓 Formado em Técnico em Informática - Colégio Politécnico da UFSM
-- 📚 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas - Faculdade Descomplica
-- 🌱 Agora estou estudando Flutter no bootcamp da DIO
-- 🤩 Gostaria de colaborar com o crescimento e desenvolvimento dessa área e do Flutter
+- 👨‍🎓 Formado Tecnólogo em Análise e Desenvolvimento de Sistemas - Faculdade Descomplica
+- 📚 Cursando Pós-Graduação em Product Management - Faculdade Descomplica
 
 ##
 
