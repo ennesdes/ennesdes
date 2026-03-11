@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Formado em Técnico em Informática - Colégio Politécnico da UFSM
 - 👨‍🎓 Formado Tecnólogo em Análise e Desenvolvimento de Sistemas - Faculdade Descomplica
-- 📚 Cursando Pós-Graduação em Product Management - Faculdade Descomplica
+- 👨‍🎓 Formado Pós-Graduação em Product Management - Faculdade Descomplica
 
 ##
 
